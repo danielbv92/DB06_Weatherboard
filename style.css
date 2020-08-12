@@ -1,0 +1,26 @@
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.container { 
+    background-color: lightsteelblue;
+}
+
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
+}
+
+body {
+    background-color: lightslategrey;
+}
+
+.col-4 {
+    background-color:lemonchiffon;
+}
